@@ -1,3 +1,3 @@
-# Simple React Contact Form & Using .env Variables 
+# Simple React Contact Form Using .env Variables 
 
 
